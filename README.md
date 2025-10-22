@@ -1,1 +1,2 @@
 - Pytorch tutorials from basics to implementing deep networks
+- environment name is torchbook on local PC
