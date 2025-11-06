@@ -1,11 +1,4 @@
-torch
-numpy
 pandas
-matplotlib
-ipykernel
-black
-black[jupyter]
-ipympl
-scikit-learn
-pillow
-tqdm
+numpy
+seaborn
+-e .
