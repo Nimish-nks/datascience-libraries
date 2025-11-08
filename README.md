@@ -1,3 +1,3 @@
-- Pytorch tutorials from basics to implementing deep networks
-- environment name is torchbook on local PC
-- made with conda
+- python=3.8
+- created environment ml_book
+- using Krish Udemy end to end ML project
